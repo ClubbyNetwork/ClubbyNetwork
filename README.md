@@ -9,4 +9,4 @@ Hrgmmmm
 )](https://youtube.com/c/AbigailNSyalom)
 
 # Stats
-![Statistics](https://github-readme-stats.vercel.app//api?username=ItzClubbyKunz&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Statistics](https://github-readme-stats.vercel.app//api?username=ItzClubbyKunz&show_icons=true&count_private=true&hide_title=true&bg_color=FF0000&title_color=6c8fd9&text_color=68f5fc)
