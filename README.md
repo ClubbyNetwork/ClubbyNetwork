@@ -6,7 +6,7 @@ Hrgmmmm
 )](https://github.com/ItzClubbyKunz) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 )](https://bit.ly/ClubMinecraft) [![Discord](https://img.shields.io/badge/Discord-7289D9?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/invite/v58xB2unpE) [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://youtube.com/c/AbigailNSyalom) [![Minecraft](https://img.shields.io/badge/Minecraft-55c94b?style=for-the-badge&logo=minecraft&logoColor=white
+)](https://youtube.com/c/AbigailNSyalom) [![Creeper](https://img.shields.io/badge/Creeper-55c94b?style=for-the-badge&logo=creeper&logoColor=white
 )](https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&refresh=1)
 
 # Stats
