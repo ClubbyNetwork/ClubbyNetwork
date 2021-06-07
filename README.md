@@ -11,6 +11,3 @@
 
 # Stats
 ![Statistics](https://github-readme-stats.vercel.app//api?username=ItzClubbyKunz&show_icons=true&count_private=true&hide_title=true&bg_color=100,0e1e45,000000&title_color=6c8fd9&text_color=68f5fc)
-
-# Play Music
-<iframe src="https://junlimitmp3.blogspot.com/?m=1?v=ItzClubbyKunz/clubminecraft-website/yt1s.com%20-%20Sweden.mp3&dl=0" width="300px" frameborder="0"></iframe>
