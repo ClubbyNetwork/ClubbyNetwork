@@ -1,4 +1,4 @@
-# villager <img src="e53b7448d653e93d37bbaeda27779868.gif" width="30" height="30">
+# villager
 <img src="20160106221916!Minecraft_logo.png">
 
 # contact us on
