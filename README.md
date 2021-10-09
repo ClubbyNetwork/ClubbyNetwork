@@ -1,6 +1,38 @@
 # Clubby Network
 [![20210809-202714.png](https://i.postimg.cc/nr0BVVqj/20210809-202714.png)](https://postimg.cc/vxxc3sqb)
 
+### Fitur
+Fitur : 
+- 🏞️Survival
+- 🔥Hotblock game
+- 💸Economy
+- 🚩Mini parkour
+- ⛏️Mining
+- 🏨Hotel
+- 📊Leaderboard
+- 🔩Rank
+- 🔌Redstone Support
+- 🌊Thrist
+- 🛡️Netherite
+- 🔮Enchant
+- 💰Shop
+- 🏫Town
+- 🚧Land
+- ⏫Top Jump
+- 🎁Mystery Crate
+- 🗳️Vote Reward
+- 🚇Labirin
+- 🕳️Portal End, Nether, dan Surga
+- 📑Papan kejujuran
+- ♨️Nether dan End
+- 🚹Slapper Animation
+- ⚙️ Support Beacon, Trident, Elytra, Totem, Shield, Sponge, dll
+————————————
+- 🏘️Skyblock
+¦Barengan👥🫂¦
+- 🏝️Acid Island
+____________
+
 # contact us on
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/ItzClubbyKunz) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
