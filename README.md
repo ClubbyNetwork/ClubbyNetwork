@@ -12,7 +12,8 @@
 )](https://www.instagram.com/invites/contact/?i=puqlnm67lgmu&utm_content=lhi40ch) [![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white
 )](https://t.me/ClubbyNetwork) [![Pinterest](https://img.shields.io/badge/Pinterest-610400?style=for-the-badge&logo=pinterest&logoColor=white
 )](https://www.pinterest.com/clubbynetwork) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:clubbynetwork@gmail.com)
+)](mailto:clubbynetwork@gmail.com) [![Whatsapp](https://img.shields.io/badge/Whatsapp-20C65A?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://chat.whatsapp.com/HTABAHwVRajIfIE8zZZfcz)
 
 # Fitur
 ____________
