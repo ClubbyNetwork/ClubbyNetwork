@@ -11,3 +11,5 @@
 
 # Stats
 ![Statistics](https://github-readme-stats.vercel.app//api?username=ItzClubbyKunz&show_icons=true&count_private=true&hide_title=true&bg_color=100,0e1e45,000000&title_color=6c8fd9&text_color=68f5fc)
+[url=https://topservers.com/minecraft][/URL]
+[img]https://topservers.com/dynamic_banners/1633320180292774778.gif[/IMG]
