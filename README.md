@@ -14,7 +14,7 @@
 )](https://www.pinterest.com/clubbynetwork)
 
 # Stats
-![Statistics](https://github-readme-stats.vercel.app//api?username=ItzClubbyKunz&show_icons=true&count_private=true&hide_title=true&bg_color=100,0e1e45,000000&title_color=6c8fd9&text_color=68f5fc)
+![Statistics](https://github-readme-stats.vercel.app//api?username=ClubbyNetwork&show_icons=true&count_private=true&hide_title=true&bg_color=100,0e1e45,000000&title_color=6c8fd9&text_color=68f5fc)
 <a href="https://minecraftpocket-servers.com/server/112632/"><img src="https://minecraftpocket-servers.com/server/112632/banners/leaderboard-6.png" border="0"></a>
 
 # Buy Me A Coffe☕
