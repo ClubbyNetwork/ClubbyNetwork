@@ -8,7 +8,8 @@
 )](https://discord.com/invite/v58xB2unpE) [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )](https://youtube.com/c/AbigailNSyalom) [![Minecraft](https://img.shields.io/badge/Xbox-55c94b?style=for-the-badge&logo=xbox&logoColor=white
 )](https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&refresh=1) [![Twitter](https://img.shields.io/badge/Twitter-87ceeb?style=for-the-badge&logo=twitter&logoColor=white
-)](https://mobile.twitter.com/ClubbyItz)
+)](https://mobile.twitter.com/ClubbyItz) [![Intagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=red
+)]()
 
 # Stats
 ![Statistics](https://github-readme-stats.vercel.app//api?username=ItzClubbyKunz&show_icons=true&count_private=true&hide_title=true&bg_color=100,0e1e45,000000&title_color=6c8fd9&text_color=68f5fc)
