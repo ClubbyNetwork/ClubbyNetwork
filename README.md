@@ -1,8 +1,8 @@
 # Clubby Network
 [![20210809-202714.png](https://i.postimg.cc/nr0BVVqj/20210809-202714.png)](https://postimg.cc/vxxc3sqb)
 
-### Fitur
-Fitur : 
+## Fitur
+____________
 - 🏞️Survival
 - 🔥Hotblock game
 - 💸Economy
@@ -27,9 +27,8 @@ Fitur :
 - ♨️Nether dan End
 - 🚹Slapper Animation
 - ⚙️ Support Beacon, Trident, Elytra, Totem, Shield, Sponge, dll
-————————————
 - 🏘️Skyblock
-¦Barengan👥🫂¦
+¦Barengan👥¦
 - 🏝️Acid Island
 ____________
 
