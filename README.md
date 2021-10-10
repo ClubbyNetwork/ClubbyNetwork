@@ -13,7 +13,7 @@
 )](https://t.me/ClubbyNetwork) [![Pinterest](https://img.shields.io/badge/Pinterest-610400?style=for-the-badge&logo=pinterest&logoColor=white
 )](https://www.pinterest.com/clubbynetwork) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:clubbynetwork@gmail.com) [![Whatsapp](https://img.shields.io/badge/Whatsapp-20C65A?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://chat.whatsapp.com/HTABAHwVRajIfIE8zZZfcz) [![Tiktok](https://img.shields.io/badge/TikTok-69C9D0, EE1D52?style=for-the-badge&logo=tiktok&logoColor=black
+)](https://chat.whatsapp.com/HTABAHwVRajIfIE8zZZfcz) [![Tiktok](https://img.shields.io/badge/TikTok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=black
 )](https://www.tiktok.com/@clubby_network)
 
 # Fitur
