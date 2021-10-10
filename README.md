@@ -58,4 +58,4 @@ https://clubby.my.id
 
 # Buy Rank📥
 [![Saweria](https://img.shields.io/badge/DONATE-SAWERIA-green?style=for-the-badge)](https://saweria.co/ItzClubbyKunz)
-[![Coming Soon](https://img.shields.io/badge/SOON-BUY_ME_A_COFFE-green?style=for-the-badge)(https://saweria.co/ItzClubbyKunz)
+[![Coming Soon](https://img.shields.io/badge/SOON-BUY_ME_A_COFFE-green?style=for-the-badge)](https://saweria.co/ItzClubbyKunz)
