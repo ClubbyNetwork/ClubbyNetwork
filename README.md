@@ -14,7 +14,7 @@
 )](https://www.pinterest.com/clubbynetwork) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:clubbynetwork@gmail.com) [![Whatsapp](https://img.shields.io/badge/Whatsapp-20C65A?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://chat.whatsapp.com/HTABAHwVRajIfIE8zZZfcz) [![Tiktok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=EE1D52
-)](https://www.tiktok.com/@clubby_network) <a href="https://clubby.my.id"><img src="https://i.postimg.cc/659bcP13/20211011-103154.jpg" width="256" height="69"></a>
+)](https://www.tiktok.com/@clubby_network) <a href="https://clubby.my.id"><img src="https://i.postimg.cc/659bcP13/20211011-103154.jpg" width="111,304" height="30"></a>
 
 # Fitur
 ____________
