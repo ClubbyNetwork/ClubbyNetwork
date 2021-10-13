@@ -50,7 +50,7 @@ ____________
 # Link
 Website
 ```
-https://clubby.my.id
+www.clubby.my.id
 ```
 
 # Stats
